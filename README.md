@@ -21,5 +21,18 @@ The goal of this project is to create a simple and interactive number guessing g
 - Python 3.x installed on your system
 
 ### 💻 Steps to Run:
-```bash
 python guessing_game.py
+
+## 📸 Screenshots
+
+### 1️⃣ Code Interface
+This shows the main Python script (guessing_game.py) opened in VS Code.
+![Code Screenshot](S1.png)
+
+### 2️⃣ User Input + Output Example
+Here, the user guess the numbers and gets the attempted result.
+![Input & Output Screenshot](S2.png)
+
+### 3️⃣ Error Handling
+Demonstrates the program handling invalid input (like alphabets) with an error message.
+![Error Handling Screenshot](S3.png)
